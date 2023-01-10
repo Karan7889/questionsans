@@ -1,0 +1,5 @@
+1. To generate the ssh key in our respective system like i am a windows user then firstly go in our command prompt type thr word ssh keygen then the key will be generated then go to the Windows C -> Users -> Your name (for example in my pc it's karan) -> .ssh -> id_rsa.pub 
+after that open the id_rsa.pub file via notepad then copy the key inside of that and then go to the github -> settings -> SSH and GPG keys ->new ssh key -> paste the key and then create the ssh key . This will complete the steps of generating the ssh key and add it to the github.
+
+
+2. Commands from initilising to pushing are : git init -> git add . -> git commit -m "Your Message" -> git push -> git push --set-upstream origin master 
